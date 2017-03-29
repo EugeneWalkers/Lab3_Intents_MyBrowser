@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Mar 29 03:05:49 MSK 2017
+1.base=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\Programming\\AndroidProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\my_browser_activity.xml
